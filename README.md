@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Hold45/CDIO_del1.svg?branch=master)](https://travis-ci.org/Hold45/CDIO_del1)
+
 s153558	Oliver Pascal Nybroe <br>
 s136381	Jonathan Ask Larsen <br>
 s154837	Sarina Bibæk <br>
