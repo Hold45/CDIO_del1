@@ -8,7 +8,7 @@
 	<lib name="Maven: junit:junit:4.12" scope="TEST"/>
 	<lib name="Maven: org.hamcrest:hamcrest-core:1.3" scope="TEST"/>
 	<lib name="Maven: org.assertj:assertj-core:3.5.2" scope="TEST"/>
-	<lib name="Maven: GUI:GUI:LATEST" scope="COMPILE">
+	<lib name="GUI.jar" scope="COMPILE">
 		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/GUI.jar!/"/>
 	</lib>
 	<levels>
